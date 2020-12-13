@@ -22,6 +22,8 @@ function App() {
           <Route exact path="/Contact" component={Contact} />   
           <Route exact path="/Vanh" component={Vanh} />
           </Switch>
+          <h3>Hi! Welcome to my website!</h3>
+          <h2>Please click on the links above to learn more about me.</h2>
       </Wrapper>
       <Footer/>
       </div>
