@@ -72,8 +72,11 @@ At a minimum, your portfolio should include the following:
 * A `Footer` component that appears on multiple pages
 
 
-### Updated LinkedIn Profile 
+### Links to Github
 
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
+Github Repo:  https://github.com/simplyvpthar/Vanh-React-Portofio.git
 
-- - -
+Deployed Github Site:  https://simplyvpthar.github.io/Vanh-React-Portofio/
+
+
+
